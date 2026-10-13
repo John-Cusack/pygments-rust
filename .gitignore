@@ -1,0 +1,9 @@
+worktree-*
+.bundles/
+.grade-venv/
+orig_src/
+__pycache__/
+target/
+*.so
+build/
+rust/*/target/
